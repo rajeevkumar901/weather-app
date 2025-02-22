@@ -13,9 +13,8 @@ A simple Weather App that fetches real-time weather data using an API and displa
 - **API:** weatherapi.com (or any other weather API)
 
 ## 📸 Screenshots
-![image](https://github.com/user-attachments/assets/5d24d631-cdbb-4f21-b251-da65904d4a10)
-![image](https://github.com/user-attachments/assets/186ed261-047f-4a7c-80da-09e7e60f8972)
-
+![image](https://github.com/user-attachments/assets/38e400cd-5541-487b-9051-79246605071e)
+![image](https://github.com/user-attachments/assets/d3d1cce0-4ea4-4a59-85e7-6773b8f9505f)
 
 
 ## 🔧 Installation & Setup
